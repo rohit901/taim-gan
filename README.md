@@ -2,7 +2,7 @@
 
 Text-Assisted Image Manipulation - GAN
 
-[![paper](https://img.shields.io/badge/-Paper-red)](https://drive.google.com/file/d/1vBvZl2hW5kSr2h6L_shkQbDHr0qVAsdG/view?usp=sharing)
+[![paper](https://img.shields.io/badge/-Paper-red)](https://rohit901.github.io/media/TAIM_GAN_ML701_Report.pdf)
 
 ## Description
 
